@@ -20,7 +20,9 @@ A simple, fast, and secure password generator built with **Rust**, using the `ef
 - One-click copy to clipboard
 - Responsive and clean user interface
 
-## Screenshot
+## 📸 Screenshot
+
+![screenshot for the app](https://github.com/pirateInNet/strong-password-generator/blob/main/2025-08-02-194358_1280x800_scrot.png)
 
 ## 📦 Installation
 
