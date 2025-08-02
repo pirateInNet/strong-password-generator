@@ -40,4 +40,4 @@ A simple, fast, and secure password generator built with **Rust**, using the `ef
 
 ## 📜 License
 
-it's under GNU, flee free
+it's under [GNU](LICENSE), flee free
