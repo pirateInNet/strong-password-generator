@@ -27,10 +27,10 @@ A simple, fast, and secure password generator built with **Rust**, using the `ef
 ## 📦 Installation
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/strong-password-generator.git
-   cd strong-password-generator
-   ```
+  ```bash
+  git clone https://github.com/yourusername/strong-password-generator.git
+  cd strong-password-generator
+  ```
 2. build it
   ```
   cargo build
@@ -42,4 +42,4 @@ A simple, fast, and secure password generator built with **Rust**, using the `ef
 
 ## 📜 License
 
-it's under [GNU](LICENSE), flee free
+it's under [GNU](LICENSE), feel free.
